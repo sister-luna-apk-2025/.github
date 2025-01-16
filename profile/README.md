@@ -44,7 +44,7 @@ Sigue estos pasos para instalar el juego de forma segura en tu dispositivo Andro
 - Ve a Configuración > Seguridad > Fuentes desconocidas en tu dispositivo Android y activa esta opción para permitir la instalación de aplicaciones fuera de Google Play Store.
 
 **2. Descarga el archivo APK**
-- Visita sitios confiables como APKPure o APKMirror para descargar el archivo de instalación de Sister Luna APK Última Versión. Verifica las reseñas y valoraciones para asegurarte de que es una fuente segura.
+- Visita sitios confiables para descargar el archivo de instalación de Sister Luna APK Última Versión. Verifica las reseñas y valoraciones para asegurarte de que es una fuente segura.
 
 **3. Instala la aplicación**
 - Una vez descargado el archivo, haz clic en él y sigue las instrucciones en pantalla para completar la instalación.
